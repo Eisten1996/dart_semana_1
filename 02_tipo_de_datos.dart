@@ -45,5 +45,5 @@ void main() {
     'apellido':'Flores',
   };
   print(persona);
-  print(persona[edad]);
+  print(persona['edad']);
 }
